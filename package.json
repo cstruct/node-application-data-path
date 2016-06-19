@@ -1,0 +1,22 @@
+{
+  "name": "application-data-path",
+  "version": "0.1.0",
+  "description": "Get a directory where the OS wants you to store data",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cstruct/node-application-data-path.git"
+  },
+  "author": "Albin Mattsson <albin@mattsson.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cstruct/node-application-data-path/issues"
+  },
+  "homepage": "https://github.com/cstruct/node-application-data-path#readme",
+  "devDependencies": {
+    "standard": "^7.1.2"
+  }
+}
