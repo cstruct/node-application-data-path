@@ -1,6 +1,6 @@
 {
   "name": "application-data-path",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Get a directory where the OS wants you to store data",
   "main": "index.js",
   "scripts": {

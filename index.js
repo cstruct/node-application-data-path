@@ -2,7 +2,7 @@ var os = require('os')
 var path = require('path')
 
 function darwin (name) {
-  return path.join(process.env['HOME'], 'Library', name)
+  return path.join(process.env['HOME'], 'Library', 'Application Support', name)
 }
 
 function linux (name) {
